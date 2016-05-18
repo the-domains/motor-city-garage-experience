@@ -1,0 +1,14 @@
+layout_spectrum: 0.21498989034444094
+typography_spectrum: 0.28053156682290137
+color:
+  brandStrength: 0.7910789242014289
+  lightness: 0.18935923278331757
+  saturation: 0.13168312166817486
+  rhythmicContrast: 0.027774377027526498
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: Motor City Garage Experience
