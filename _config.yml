@@ -6,9 +6,9 @@ color:
   saturation: 0.13168312166817486
   rhythmicContrast: 0.027774377027526498
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Motor City Garage Experience
