@@ -1,4 +1,3 @@
-layout_spectrum: 0.21498989034444094
 typography_spectrum: 0.28053156682290137
 color:
   brandStrength: 0.7910789242014289
@@ -11,4 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.21498989034444094
+author:
+  name: Brian Borek
+  email: brian@themotorcitygarage.com
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb1b8dd9-700a-42ce-9fea-3229c86dc2d3.png'
 name: Motor City Garage Experience
